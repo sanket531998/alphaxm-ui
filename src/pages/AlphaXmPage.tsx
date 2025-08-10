@@ -34,7 +34,7 @@ type Project = {
 const SAMPLE_PROJECTS: Project[] = [
   {
     id: "p1",
-    title: "DeFi Lending dApp",
+    title: "DEFI Lending dApp",
     desc: "End-to-end lending protocol with stable interest, oracle integrations, and frontend dashboard.",
     tags: ["Ethereum", "Solidity", "React"],
     link: "#",
