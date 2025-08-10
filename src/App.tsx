@@ -1,10 +1,11 @@
 import "./App.css";
-import LandingPage from "./pages/LandingPage/LandingPage";
+import AlphaXMSite from "./pages/AlphaXmPage";
 
 function App() {
   return (
     <>
-      <LandingPage></LandingPage>
+      {/* <LandingPage></LandingPage> */}
+      <AlphaXMSite></AlphaXMSite>
     </>
   );
 }
