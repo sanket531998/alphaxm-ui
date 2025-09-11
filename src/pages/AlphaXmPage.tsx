@@ -486,7 +486,7 @@ export default function AlphaXMSite() {
                     </div>
                     <div>
                       <div className="text-xs text-slate-400">Email</div>
-                      <div className="font-semibold">hello@alphaxm.com</div>
+                      <div className="font-semibold">alphaxm.business@gmail.com</div>
                     </div>
                   </div>
 
@@ -496,7 +496,7 @@ export default function AlphaXMSite() {
                     </div>
                     <div>
                       <div className="text-xs text-slate-400">Call</div>
-                      <div className="font-semibold">+1 (555) 555‑1234</div>
+                      <div className="font-semibold">+91 9130859725</div>
                     </div>
                   </div>
 
